@@ -7,7 +7,7 @@ allows your Azure notebooks to download data (in particular, images) from any pl
 
 To use it:
 
-    * Deploy the project somewhere on Azure (eg. http://az.azurewebsites.net)
-    * In your notebook, substitute URLs like http://image.net/image.jpg to http://az.azurewebsites.net/api/gateway?q=https%3A%2F%2Fimages.net%2Fimage.jpg
-    * Enjoy!
+  * Deploy the project somewhere on Azure (eg. http://az.azurewebsites.net)
+  * In your notebook, substitute URLs like http://image.net/image.jpg to http://az.azurewebsites.net/api/gateway?q=https%3A%2F%2Fimages.net%2Fimage.jpg
+  * Enjoy!
 
