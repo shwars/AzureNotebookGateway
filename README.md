@@ -2,7 +2,7 @@
 
 ### Gateway to allow passing arbitrary files to Azure Notebooks
 
-Unfortunately, [Azure Notebooks](http://notebooks.azure.com) limit access to external data from a few sources. This gateway
+Unfortunately, [Azure Notebooks](https://notebooks.azure.com/?WT.mc_id=academic-0000-dmitryso) limit access to external data from a few sources. This gateway
 allows your Azure notebooks to download data (in particular, images) from any place on the internet.
 
 To use it:
